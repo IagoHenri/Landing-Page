@@ -166,6 +166,10 @@
     padding: 3rem;
 }
 
+.footer .text-ia {
+    font-style: italic;
+}
+
 .back-to-top {
     position: fixed;
     bottom: 2rem;
